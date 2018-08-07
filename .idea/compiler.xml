@@ -11,5 +11,11 @@
         <module name="SimpleFactoryPattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AbstractFactoryMethodPattern" target="1.5" />
+      <module name="DesignPattern" target="1.5" />
+      <module name="FactoryMethodPattern" target="1.5" />
+      <module name="SimpleFactoryPattern" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
